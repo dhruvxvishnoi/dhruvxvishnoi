@@ -1,4 +1,4 @@
-# Hi, I'm Dhruv Vishnoi 👋
+# Hi, I'm Dhruv Vishnoi 
 
 ### Computer Science Engineering @ Thapar Institute of Engineering & Technology
 
@@ -10,19 +10,18 @@ Currently exploring deeper into **Deep Learning, GenAI, System Design, and full-
 
 ---
 
-## 🚀 What I Work On
+## Skills
 
-- 🤖 **Machine Learning & Deep Learning**
-- 👁️ **Computer Vision**
-- 🎥 **Multimodal AI**
-- 🗄️ **Database Design & SQL**
-- 🧩 **Data Structures & Algorithms**
-- 🌐 **REST APIs & Software Systems**
-- 🥽 **AR / 3D Learning Applications**
+- **Machine Learning & Deep Learning**
+- **Computer Vision**
+- **Database Design & SQL**
+- **Data Structures & Algorithms**
+- **REST APIs & Software Systems**
+- **AR / 3D Learning Applications**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -46,9 +45,9 @@ Currently exploring deeper into **Deep Learning, GenAI, System Design, and full-
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
-## 🤖 Multimodal Human Action Recognition
+## Multimodal Human Action Recognition
 
 **Python • PyTorch • CNN • BiLSTM • ST-GCN**
 
@@ -74,7 +73,7 @@ An end-to-end multimodal deep learning system for recognizing human activities u
 
 ---
 
-## 🌫️ De-Hazify — Image Data Quality Enhancement
+## De-Hazify — Image Data Quality Enhancement
 
 **Python • PyTorch • OpenCV • U-Net**
 
@@ -90,11 +89,11 @@ A deep-learning based image restoration pipeline designed to enhance images affe
   - **+3.8 dB PSNR**
   - **+0.041 SSIM**
 
-🔗 **[View Project →](#)**
+**[View Project →](#)**
 
 ---
 
-## 🏠 Affordable Housing & Tenant Matching System
+## Affordable Housing & Tenant Matching System
 
 **MySQL • PL/SQL • ER Modeling**
 
