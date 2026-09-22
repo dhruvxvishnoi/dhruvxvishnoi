@@ -2,49 +2,6 @@
 
 ### Computer Science Engineering @ Thapar Institute of Engineering & Technology
 
-I’m a Computer Science undergraduate interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Software Systems**.
-
-I enjoy building projects that combine **data, intelligent models, and practical system design** — from multimodal human action recognition and image restoration to relational database systems.
-
-Currently exploring deeper into **Deep Learning, GenAI, System Design, and full-stack development**.
-
----
-
-## Skills
-
-- **Machine Learning & Deep Learning**
-- **Computer Vision**
-- **Database Design & SQL**
-- **Data Structures & Algorithms**
-- **REST APIs & Software Systems**
-- **AR / 3D Learning Applications**
-
----
-
-## Tech Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### AI / Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Machine Learning • Deep Learning • Computer Vision • GenAI**
-
-### Databases & Development
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**MERN Stack • REST APIs • System Design • ER Modeling**
-
----
-
 # Featured Projects
 
 ## Multimodal Human Action Recognition
